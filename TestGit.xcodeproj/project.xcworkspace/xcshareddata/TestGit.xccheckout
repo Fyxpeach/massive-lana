@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8FA30A14-0C14-4E40-856F-85617E3F6290</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestGit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F9337790-DE47-4E68-87BB-340891BFFEFE</key>
+		<string>https://github.com/Fyxpeach/massive-lana</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestGit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F9337790-DE47-4E68-87BB-340891BFFEFE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Fyxpeach/massive-lana</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9337790-DE47-4E68-87BB-340891BFFEFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9337790-DE47-4E68-87BB-340891BFFEFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>massive-lana</string>
+		</dict>
+	</array>
+</dict>
+</plist>
