@@ -6,7 +6,6 @@
 //
 //  master
 //  master change
-//  master change
 
 
 #include "TestGit.h"
