@@ -9,12 +9,16 @@
 /* Begin PBXFileReference section */
 		5A78995B1919EB78003BC31B /* TestGit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TestGit.cpp; sourceTree = "<group>"; };
 		5A78995C1919EB78003BC31B /* TestGit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGit.h; sourceTree = "<group>"; };
+		5AD363A6191B1F9A00BB69A6 /* TestGit2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TestGit2.cpp; sourceTree = "<group>"; };
+		5AD363A7191B1F9A00BB69A6 /* TestGit2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGit2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		5A7899541919EB65003BC31B = {
 			isa = PBXGroup;
 			children = (
+				5AD363A6191B1F9A00BB69A6 /* TestGit2.cpp */,
+				5AD363A7191B1F9A00BB69A6 /* TestGit2.h */,
 				5A78995B1919EB78003BC31B /* TestGit.cpp */,
 				5A78995C1919EB78003BC31B /* TestGit.h */,
 			);
